@@ -1,6 +1,6 @@
 package lessons.oop
 
-object InheritanceAndTraits extends App {
+object Inheritance extends App {
   // single class inheritance
 //  class Animal {
 //    val creatureType: String = "Animal"
