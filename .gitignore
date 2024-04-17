@@ -1,0 +1,30 @@
+# Compiled class files
+/target/
+
+# Log files
+/logs/
+
+# IntelliJ IDEA project files
+.idea/
+
+# Eclipse project files
+.classpath
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# SBT project specific files
+.cache/
+.lib_managed/
+.project
+.target/
+.history
+.cache
+.buildpath
+.externalToolBuilders
+.worksheet
+
+# Miscellaneous
+*.class
+*.log
