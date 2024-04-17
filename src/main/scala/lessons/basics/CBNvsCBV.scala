@@ -1,4 +1,4 @@
-package lessons
+package lessons.basics
 
 object CBNvsCBV extends App {
   // Evaluates System.nanoTime() one time

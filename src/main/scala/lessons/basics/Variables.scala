@@ -1,4 +1,4 @@
-package lessons
+package lessons.basics
 
 object Variables extends App {
   val x: Int = 42;
