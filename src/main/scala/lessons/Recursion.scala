@@ -1,4 +1,4 @@
-package variables
+package lessons
 
 import scala.annotation.tailrec
 import scala.jdk.Accumulator

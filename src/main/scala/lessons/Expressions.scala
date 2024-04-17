@@ -1,4 +1,4 @@
-package variables
+package lessons
 
 object Expressions extends App {
   val x = 1 + 2
