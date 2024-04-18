@@ -14,6 +14,7 @@ object AbstractDataTypes extends App {
 
   trait Carnivore {
     def eat(animal: Animal): Unit
+    val preferredMeal: String = "fresh meet"
   }
 
   trait Coldblooded
@@ -32,4 +33,6 @@ object AbstractDataTypes extends App {
 
   // traits vs abstract classes
   // 1 - traits do not have constructor parameters
+  // 2 - multiple traits may be inherited by the same class
+  // 3 - traits = behaviour, abstract class = type of "thing"
 }
